@@ -5,4 +5,15 @@ public static void main();
 class pw {
 public static void main();
 
+}class pw {
+public static void main();
+
+}
+class pw {
+public static void main();
+
+}
+class pw {
+public static void main();
+
 }
